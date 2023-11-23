@@ -42,3 +42,4 @@ data _≡_  {A : Type} (x : A) : A → Type where
 Essa definição pode ser lida como: "Seja A um tipo e x um elemento do tipo A, definimos refl como a igualdade de x com x". Ou seja, para todo tipo A, a igualdade "x =A x" possui um elemento chamado de reflexividade (refl) que equivale à reflexividade da igualdade.
 
 
+
