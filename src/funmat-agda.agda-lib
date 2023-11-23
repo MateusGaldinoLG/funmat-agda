@@ -1,0 +1,4 @@
+name: funmat-agda
+include: Funmat
+flags:
+  -WnoUnsupportedIndexedMatch

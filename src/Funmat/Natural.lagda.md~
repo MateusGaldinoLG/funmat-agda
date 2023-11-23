@@ -1,0 +1,10 @@
+
+## Capítulo 1.1 - O tipo dos naturais
+
+Para começar com essas notas, é necessário definir o que é um tipo. Para isso, vamos usar a definição que o livro Homotopy Type Theory (ou só HoTT-book) utiliza. Um tipo é como uma coleção de elementos, chamados de termos. Cada termo prova que o tipo é válido. Para denotar que "a é um elemento do tipo A", denotamos por "a : A". Na teoria dos Tipos, todo objeto possui um tipo (até mesmo tipos, mas vamos falar sobre isso depois).
+
+Vamos definir o primeiro tipo em Agda, que será o tipo dos naturais
+
+```agda
+
+```
